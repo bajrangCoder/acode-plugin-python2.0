@@ -3,6 +3,7 @@
     "name": "Python 2.0",
     "main": "dist/main.js",
     "version": "1.0.0",
+    "minVersionCode": 290,
     "readme": "README.md",
     "icon": "icon.png",
     "files": [],
