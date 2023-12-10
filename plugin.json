@@ -1,0 +1,14 @@
+{
+    "id": "acode.plugin.python2",
+    "name": "Python 2.0",
+    "main": "dist/main.js",
+    "version": "1.0.0",
+    "readme": "README.md",
+    "icon": "icon.png",
+    "files": [],
+    "author": {
+        "name": "Raunak Raj",
+        "email": "bajrangcoders@gmail.com",
+        "github": "bajrangCoder"
+    }
+}
